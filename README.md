@@ -1,5 +1,5 @@
 # LeafBook Test Website
-A test website for a fictional company
+A semi-responsive test website for a fictional company
 
 Example:
 
